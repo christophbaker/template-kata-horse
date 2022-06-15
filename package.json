@@ -39,7 +39,6 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-import": "^2.26.0",
     "jasmine": "^4.2.0",
-    "jasmine-terminal-reporter": "^1.0.3",
     "prettier": "^2.7.0"
   },
   "keywords": [
