@@ -12,8 +12,8 @@ There is a function in the horse backend marked with 'TODO' statements. This fun
 
 ## Dev Dependencies
 
-* [eslint](https://eslint.org/)
-    * [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base)
-    * [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
-* [jasmine](https://jasmine.github.io/)
-* [prettier](https://www.npmjs.com/package/prettier)
+- [eslint](https://eslint.org/)
+  - [eslint-config-airbnb-base](https://www.npmjs.com/package/eslint-config-airbnb-base)
+  - [eslint-config-prettier](https://www.npmjs.com/package/eslint-config-prettier)
+- [jasmine](https://jasmine.github.io/)
+- [prettier](https://www.npmjs.com/package/prettier)

@@ -3,10 +3,10 @@ module.exports = {
     es2021: true,
     jasmine: true,
   },
-  extends: ['airbnb-base'],
+  extends: ["airbnb-base"],
   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
+    ecmaVersion: "latest",
+    sourceType: "module",
   },
   rules: {},
 };

@@ -3,12 +3,12 @@ exports.filterSortPaginateTable = function filterSortPaginateTable(
   tableData,
   filters,
   sortMetadata,
-  paginationMetadata,
+  paginationMetadata
 ) {
   // TODO: filter horse table using filters
 
   // TODO: sort horse table using sortMetadata
 
   // TODO: paginate horse table using paginationMetadata
-  throw new Error('Not Implemented');
+  throw new Error("Not Implemented");
 };
